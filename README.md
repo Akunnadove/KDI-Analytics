@@ -21,3 +21,16 @@ Features;
 - Sales stages per month
 - Close/won deals per Marketer
 
+* Leads
+Features;
+- Total Leads
+- Total Marketers
+- Lead Stages Count
+- Leads Count per Month
+- Leads Count per Marketer
+
+* Marketer Applicants
+   - Gender Count
+   - Degree qualification
+   - Location 
+   
