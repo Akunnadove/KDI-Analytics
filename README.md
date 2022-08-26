@@ -30,7 +30,9 @@ Features;
 - Leads Count per Marketer
 
 * Marketer Applicants
+Features;
    - Gender Count
    - Degree qualification
    - Location 
    
+![KDI Marketers Application Form](https://user-images.githubusercontent.com/66309302/186938393-a72514e4-9535-4caa-8232-43b71491bf4f.png)
