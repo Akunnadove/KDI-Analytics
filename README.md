@@ -44,3 +44,10 @@ Features;
 * Location 
    
 ![KDI LEADS DASHBOARD › FRONT PAGE - Google Chrome 05_09_2022 1_36_49 pm](https://user-images.githubusercontent.com/66309302/188480675-bf224d13-41d3-4b02-afbe-1454629a6554.png)
+
+### KDI FORM AND SHEET
+The Data visualized on the Dashboards are gotten from an already populated Google Sheet.
+#### Form
+![KDI FORM](https://user-images.githubusercontent.com/66309302/188481991-08de19c7-0e02-4086-9daf-1e5a4a652874.PNG)
+#### Sheet
+![KDI SHEET](https://user-images.githubusercontent.com/66309302/188481936-95f0cc9a-bdc1-418e-b68c-352caf6ada0c.PNG)
