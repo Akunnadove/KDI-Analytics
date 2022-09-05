@@ -43,5 +43,4 @@ Features;
 * Degree qualification
 * Location 
    
-![Uploading KDI LEADS DASHBOARD › FRONT PAGE - Google Chrome 05_09_2022 1_36_49 pm.png…]()
-![KDI Marketers Application Form](https://user-images.githubusercontent.com/66309302/186938393-a72514e4-9535-4caa-8232-43b71491bf4f.png)
+![KDI LEADS DASHBOARD › FRONT PAGE - Google Chrome 05_09_2022 1_36_49 pm](https://user-images.githubusercontent.com/66309302/188480675-bf224d13-41d3-4b02-afbe-1454629a6554.png)
