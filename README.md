@@ -3,7 +3,7 @@ A startup company(KDI) reached out to me to develop it's Data Engineering and An
 ## Project Implementation
 Outlined below are the 4 Dashboard views as requested by the Client;
 ### KDI Analytics (Front Page)
-![KDI LEADS DASHBOARD › FRONT PAGE - Google Chrome 05_09_2022 1_35_59 pm](https://user-images.githubusercontent.com/66309302/188476143-25dc4236-2002-4c72-b441-d34331baf31c.png)
+![KDI FRONTPAGE](https://user-images.githubusercontent.com/66309302/190215354-4704213a-8913-48b3-92f2-14fe1cacd583.PNG)
 
 ### Executive summary
 Features;
@@ -14,7 +14,7 @@ Features;
 * Closed pipeline
 * Total Leads
 
-![KDI LEADS DASHBOARD › FRONT PAGE - Google Chrome 05_09_2022 1_36_10 pm](https://user-images.githubusercontent.com/66309302/188476811-56f30eda-2910-4c35-be40-a8d9743bcbd3.png)
+![KDI EXECUTIVE](https://user-images.githubusercontent.com/66309302/190216611-25acfa29-6b8f-4dec-b45f-f95e361aefff.PNG)
 
 ### Sales
 Features;
@@ -25,7 +25,7 @@ Features;
 * Sales stages per month
 * Close/won deals per Marketer
 
-![KDI LEADS DASHBOARD › FRONT PAGE - Google Chrome 05_09_2022 1_36_37 pm](https://user-images.githubusercontent.com/66309302/188479932-0f63f238-011b-4cdd-aeb3-0cb7681c98ca.png)
+![KDI SALES](https://user-images.githubusercontent.com/66309302/190215700-096f1e3f-8921-41f3-bfee-a23b96785a11.PNG)
 
 ### Leads
 Features;
@@ -35,20 +35,23 @@ Features;
 * Leads Count per Month
 * Leads Count per Marketer
 
-![KDI LEADS DASHBOARD › FRONT PAGE - Google Chrome 05_09_2022 1_36_21 pm](https://user-images.githubusercontent.com/66309302/188479735-ecf90913-f5c8-4723-989e-d1f8148e3805.png)
+![KDI LEADS](https://user-images.githubusercontent.com/66309302/190215745-dd11dc7c-20e7-43b1-8b4e-a29bdacaeb1b.PNG)
 
 ### Marketer Applicants
 Features;
 * Gender Count
 * Degree qualification
 * Location 
-   
-![KDI LEADS DASHBOARD › FRONT PAGE - Google Chrome 05_09_2022 1_36_49 pm](https://user-images.githubusercontent.com/66309302/188480675-bf224d13-41d3-4b02-afbe-1454629a6554.png)
+
+![KDI JOB APPLICANTS](https://user-images.githubusercontent.com/66309302/190216187-4e923cdd-2c1f-4599-9e11-a771d41dd272.PNG) 
 ![KDI MARKETERS](https://user-images.githubusercontent.com/66309302/188483863-5a5c3810-7f9f-4dd1-8527-803772537e69.PNG)
 
 ### KDI FORM AND SHEET
 The Data visualized on the Dashboards are gotten from an already populated Google Sheet.
 #### Form
+
 ![KDI FORM](https://user-images.githubusercontent.com/66309302/188481991-08de19c7-0e02-4086-9daf-1e5a4a652874.PNG)
+
 #### Sheet
+
 ![KDI SHEET](https://user-images.githubusercontent.com/66309302/188481936-95f0cc9a-bdc1-418e-b68c-352caf6ada0c.PNG)
