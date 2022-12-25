@@ -3,7 +3,7 @@ A startup company(KDI) reached out to me to develop it's Data Engineering and An
 ## Project Implementation
 Outlined below are the 4 Dashboard views as requested by the Client;
 ### KDI Analytics (Front Page)
-![KDI FRONTPAGE](https://user-images.githubusercontent.com/66309302/190218784-ef0e08d3-ed06-4e26-9082-4990c2e4f1f5.PNG)
+![3](https://user-images.githubusercontent.com/66309302/209483297-c0e36c6b-ba58-43b7-b42f-9145fcb0849d.PNG)
 
 ### Executive summary
 Features;
