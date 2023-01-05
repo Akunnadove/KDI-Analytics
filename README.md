@@ -3,7 +3,7 @@ A startup company(KDI) reached out to me to develop it's Data Engineering and An
 ## Project Implementation
 Outlined below are the 4 Dashboard views as requested by the Client;
 ### KDI Analytics (Front Page)
-![3](https://user-images.githubusercontent.com/66309302/209483297-c0e36c6b-ba58-43b7-b42f-9145fcb0849d.PNG)
+![3](https://user-images.githubusercontent.com/66309302/210806255-57582fba-0d32-4b63-826c-de1653dcae96.PNG)
 
 ### Executive summary
 Features;
@@ -14,7 +14,7 @@ Features;
 * Closed pipeline
 * Total Leads
 
-![KDI EXECUTIVE](https://user-images.githubusercontent.com/66309302/190216611-25acfa29-6b8f-4dec-b45f-f95e361aefff.PNG)
+![4](https://user-images.githubusercontent.com/66309302/210806392-3f720bcc-b6bf-48f4-af0c-6f96cd105244.PNG)
 
 ### Sales
 Features;
@@ -25,7 +25,7 @@ Features;
 * Sales stages per month
 * Close/won deals per Marketer
 
-![KDI SALES](https://user-images.githubusercontent.com/66309302/190215700-096f1e3f-8921-41f3-bfee-a23b96785a11.PNG)
+![6](https://user-images.githubusercontent.com/66309302/210806539-fdf89db8-e0ef-4d4d-8305-cd823b24f21b.PNG)
 
 ### Leads
 Features;
@@ -35,7 +35,7 @@ Features;
 * Leads Count per Month
 * Leads Count per Marketer
 
-![KDI LEADS](https://user-images.githubusercontent.com/66309302/190215745-dd11dc7c-20e7-43b1-8b4e-a29bdacaeb1b.PNG)
+![5](https://user-images.githubusercontent.com/66309302/210806682-f3967ee6-77fe-4d10-9d29-65e508bc05cb.PNG)
 
 ### Marketer Applicants
 Features;
@@ -43,7 +43,7 @@ Features;
 * Degree qualification
 * Location 
 
-![KDI JOB APPLICANTS](https://user-images.githubusercontent.com/66309302/190216187-4e923cdd-2c1f-4599-9e11-a771d41dd272.PNG) 
+![7](https://user-images.githubusercontent.com/66309302/210806777-bc0b61b8-3cdd-48f3-b673-380c2353c138.PNG)
 ![KDI MARKETERS](https://user-images.githubusercontent.com/66309302/188483863-5a5c3810-7f9f-4dd1-8527-803772537e69.PNG)
 
 ### KDI FORM AND SHEET
